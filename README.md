@@ -20,6 +20,20 @@ I was hired by Tom with the Colorado Board of Elections to complete 	the electio
 
 The analysis of the election show that:
 •	There were 369,711 votes cast in the election.
+
+•	The counties were:
+1.	Jefferson
+2.	Denver
+3.	Arapahoe
+
+•	The county results were:
+-	Jefferson County voter turnout was 10.5% of the voters and 38,855 voters.
+-	Denver County voter turnout was 82.5% of the voters and 306,055 voters. 
+-	Arapahoe County voter turnout was 6.7% of the voters and 24,801 voters.
+
+•	The county with the largest voter turnout was:
+-	Denver
+
 •	The candidates were:
 1.	Charles Casper Stockham
 2.	Diana DeGetge
@@ -33,8 +47,5 @@ The analysis of the election show that:
 •	The winner of the election was:
 -	Candidate Diana DeGette, who received 73.8% of the vote and 272,892 votes.
 
-
-## Challenge Overview
-
 ## Challenge Summary
-
+Thank you for the opportunity to work with you.  The analysis above could be applied to other elections not just at the local congressional election.  With modifications to the code, you could run this same analysis on the local level for your mayoral elections and at the state level for election of the governor.  Instead of just tracking voters at the county level, you could further track the by city or municipality and even further by school district.  
