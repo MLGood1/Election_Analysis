@@ -16,7 +16,7 @@ I was hired by Tom with the Colorado Board of Elections to complete 	the electio
 -Data Source: election_results.csv
 -Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
-## Summary
+## Election_Audit Results
 
 The analysis of the election show that:
 •	There were 369,711 votes cast in the election.
@@ -47,5 +47,5 @@ The analysis of the election show that:
 •	The winner of the election was:
 -	Candidate Diana DeGette, who received 73.8% of the vote and 272,892 votes.
 
-## Challenge Summary
-Thank you for the opportunity to work with you.  The analysis above could be applied to other elections not just at the local congressional election.  With modifications to the code, you could run this same analysis on the local level for your mayoral elections and at the state level for election of the governor.  Instead of just tracking voters at the county level, you could further track the by city or municipality and even further by school district.  
+## Election_Audit Summary
+Thank you for the opportunity to work with you.  The analysis above could be applied to other elections not just at the local congressional election.  With modifications to the code, you could run this same analysis on the local level for your mayoral elections and at the state level for election of the governor. In this analyais the use of the for loops (if (votes > county_turnout) and (vote_percentage > county_winning_percentage)) is used to calculate the voter turnout at the county level, this code can easily be manipulated to track voters by city or municipality and even further by school district.  
